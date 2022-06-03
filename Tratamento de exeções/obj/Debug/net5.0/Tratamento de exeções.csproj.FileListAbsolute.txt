@@ -1,0 +1,16 @@
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.exe
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.deps.json
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.runtimeconfig.json
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.runtimeconfig.dev.json
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.dll
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\ref\Tratamento de exeções.dll
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\bin\Debug\net5.0\Tratamento de exeções.pdb
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.AssemblyInfoInputs.cache
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.AssemblyInfo.cs
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.dll
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\ref\Tratamento de exeções.dll
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.pdb
+C:\Users\giuli\source\repos\Tratamento de exeções\Tratamento de exeções\obj\Debug\net5.0\Tratamento de exeções.genruntimeconfig.cache
